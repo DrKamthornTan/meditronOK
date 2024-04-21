@@ -1,0 +1,2 @@
+# meditronOK
+deploy local LLM
